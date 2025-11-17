@@ -1,4 +1,4 @@
-## YAOI
+<img width="523" height="382" alt="Image" src="https://github.com/user-attachments/assets/920f8a9b-7748-46b6-b4c8-786874106668" />
 
 <!--
 **baagels/BAAGELS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
